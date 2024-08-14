@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "30a21cc13c2f4fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca2d858b07e9843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f72cc37d269fd78",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/Obsidian/Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33548269e43a6ec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d2c5f827e95c36",
+        "type": "tabs",
+        "dimension": 54.590325765054295,
+        "children": [
+          {
+            "id": "2213db046a2bc0fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd36e06cfc6f3b33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c413a82f15ef6aa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2541c164ec8a719b",
+        "type": "tabs",
+        "dimension": 22.704837117472852,
+        "children": [
+          {
+            "id": "7f4164359817ff92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutorials/Obsidian/Obsidian.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a14a17aa4d1a83c8",
+        "type": "tabs",
+        "dimension": 22.704837117472852,
+        "children": [
+          {
+            "id": "dda9adbe6d5e218c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "d3a0be29df72d402",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7f63852cbe83cd",
+        "type": "tabs",
+        "dimension": 51.84782608695652,
+        "children": [
+          {
+            "id": "c70ad4a6f6965ad9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb9faa07ff886f4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorials/Obsidian/Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "933dbaad5f54a25e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutorials/Obsidian/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db22d8672ab2d5a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aef7c8365ded8ba2",
+        "type": "tabs",
+        "dimension": 48.15217391304348,
+        "children": [
+          {
+            "id": "11c6c4b432e435ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2f72cc37d269fd78",
+  "lastOpenFiles": [
+    "LogBook/Tasks Summary.md",
+    "Tutorials/Obsidian/Obsidian - Syntax.md",
+    "Tutorials/Tutorial Information.md",
+    "Tutorials/Obsidian/Obsidian.md",
+    "Technical/HTCondor.md",
+    "Technical/Git.md",
+    "LogBook/Working Notes/WeekXY_Example.md",
+    "LogBook/Working Notes/W12Aug.md",
+    "LogBook/Meetings.md",
+    "Technical/Technical Information.md",
+    "Tutorials/Obsidian/Obsidian - Plugins.md",
+    "Tutorials/Obsidian/Obsidian - Templates and Tasks.md",
+    "figures/Pasted image 20240814174003.png",
+    "Tutorials/Batch Jobs/HTCondor Example.md",
+    "figures/Pasted image 20240814172100.png",
+    "figures",
+    "Tutorials/Batch Jobs/Bulk Submissions.md",
+    "Templates/Weekly Notes.md",
+    "Technical/HiggsCP/SVFIT (TIDAL).md",
+    "Untitled.md",
+    "LogBook/MCSamples/DYto2TautoMuTauh.md",
+    "Tutorials/Batch Jobs",
+    "Technical/HiggsDNA/HiggsDNA.md",
+    "Technical/HiggsDNA/Higgs DNA - Technical.md",
+    "Technical/HiggsDNA/Higgs DNA - Run3_2022.md",
+    "Technical/HiggsDNA",
+    "Git.md",
+    "Technical/HiggsCP",
+    "Tasks Plugin - Review and check your Statuses 2024-08-13 15-10-07.md",
+    "Technical/MCGEN/MCGEN.md",
+    "Templates/Weekly_old.md",
+    "Untitled 1.md",
+    "LogBook/Working Notes",
+    "Templates",
+    "Technical/MCGEN",
+    "LogBook/MCSamples",
+    "Tutorials/Obsidian",
+    "Untitled.canvas",
+    "Tutorials"
+  ]
+}
