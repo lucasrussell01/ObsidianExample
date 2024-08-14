@@ -1,4 +1,4 @@
-Obsidian Quick Start
+# Obsidian Quick Start
 
 I've put some instructions and steps to follow in this repo, to get obsidian setup faster (with some nice features I found)
 
