@@ -9,7 +9,7 @@ Clone this repo locally:
 git clone https://github.com/lucasrussell01/ObsidianExample.git
 ```
 
-Download Obsidian for your system [here]([https://obsidian.md/)
+Download Obsidian for your system here: https://obsidian.md/
 
 Open Obsidian, select "Open folder as vault" and open `ObsidianExample`
 
